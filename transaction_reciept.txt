@@ -1,0 +1,21 @@
+									  TRANSACTION RECIEPT
+
+
+
+Your Current balance: BDT 250000.00
+
+Deposit amount: BDT 45566.00 
+After depositing your Current balance: BDT 295566.00
+
+Withdrawal amount: BDT 45566.00 
+After withdrawal your Current balance: BDT 250000.00
+
+Your total selected theory courses for next semester 3.0
+
+Your total selected credits for next semester 10.0
+
+Your tuition fee: BDT 74500.00 
+After paying tuition fee your Current balance: BDT 175500.00
+
+Your NSUAPC club fee is 2500.00
+After payment your current balance is 173000.00

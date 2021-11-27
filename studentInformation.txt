@@ -1,0 +1,13 @@
+
+Student name          : Nandini Das
+Student ID            : 2031326642
+Current major         : Computer Science and Engineering
+Current Semester      : Fall 2020
+Total Completed Credit: 12
+Current CGPA          : 3.65
+
+Ongoing Theory Courses: CSE115
+                      : MAT116
+                      : ENG103
+
+Ongoing Lab Courses   : CSE115L

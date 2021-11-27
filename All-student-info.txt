@@ -1,0 +1,26 @@
+									   STUDENT DATABASE
+
+
+Name            : Farhan Ishrak Tahmid
+NSU ID          : 2031458642
+Major           : Computer Science and Engineering
+Balance         : 200000.00
+Completed course: 10
+Semester Name   : Fall 2020
+CGPA            : 3.35
+
+Name            : Nandini Das
+NSU ID          : 2031326642
+Major           : Computer Science and Engineering
+Balance         : 250000.00
+Completed course: 12
+Semester Name   : Fall 2020
+CGPA            : 3.65
+
+Name            : Humayra Jahan Shemushee
+NSU ID          : 2031454642
+Major           : Computer Science and Engineering
+Balance         : 300000.00
+Completed course: 15
+Semester Name   : Fall 2020
+CGPA            : 3.85
